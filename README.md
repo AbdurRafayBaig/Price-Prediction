@@ -320,7 +320,7 @@ The front page serves as the gateway to the car price prediction experience. It 
 
 # 5.  Codes
 Link of the complete front end (Flutter) and backend (Python) code is:
-https://github.com/Programming-Phantoms/Car_Prediction_System.git
+https://github.com/AbdurRafayBaig/Price-Prediction
 
 ### The provided backend Python code is a Flask application that serves as a backend for a linear regression model for predicting car prices. Here's a brief description of the code:
 ### 1)	Imports:
